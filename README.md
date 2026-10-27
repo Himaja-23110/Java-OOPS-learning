@@ -1,33 +1,39 @@
-Java OOP Concepts
+# Java OOPs Learning 🚀
 
-A collection of simple Java programs that demonstrate the core Object-Oriented Programming (OOP) concepts. Each concept is kept in its own package so it is easy to find and practice.
+A hands-on repository containing my Java Object-Oriented Programming (OOP) practice programs, built while strengthening Core Java fundamentals for software engineering roles.
 
-Concepts Covered
-Package	Concept
-ClassObject	Classes and objects
-constructors	Constructors and their types
-Encapsulation	Data hiding using private variables, getters and setters
-Inheritance	Reusing code with the extends keyword
-Methodoverloading	Compile-time polymorphism (same method name, different parameters)
-Methodoverridding	Runtime polymorphism (child class redefines a parent method)
-Superkeyword	Using super to access parent class members and constructors
-Abstract	Abstract classes and abstract methods
-Project Structure
-JavaOOPs/
-└── src/
-    ├── Abstract/
-    ├── ClassObject/
-    ├── constructors/
-    ├── Encapsulation/
-    ├── Inheritance/
-    ├── Methodoverridding/
-    ├── Methodoverloading/
-    └── Superkeyword/
-    Requirements
-Java JDK 8 or above
-Eclipse IDE (or any Java IDE)
-Author
+## 📂 Topics Covered
 
-Himaja Pogiri B.Tech CSE, Narsimha Reddy Engineering College (NRCM), Hyderabad
+Here are the concepts and implementations included in this repository:
 
-Learning Java Full Stack Development.
+1. **Class and Object** (`ClassObject`)
+   - Basics of creating classes and objects
+   - Instance variables and methods execution
+
+2. **Constructors** (`Constructors`)
+   - Default and parameterized constructors
+   - Object initialization and the `this` keyword
+
+3. **Encapsulation** (`Encapsulation`)
+   - Data hiding using `private` access modifiers
+   - Getters and setters implementation
+
+4. **Inheritance** (`Inheritance`)
+   - Code reusability and parent-child class relationships (`extends`)
+
+5. **Polymorphism & Methods**
+   - **Method Overloading** (`Methodoverloading`) - Compile-time polymorphism
+   - **Method Overriding** (`Methodoveradding`) - Run-time polymorphism
+
+6. **Keywords & Abstraction**
+   - **Super Keyword** (`Superkeyword`) - Using `super` to access parent class members
+   - **Abstraction** (`Abstract`) - Abstract classes and methods implementation
+
+## 🛠️ Tech Stack
+
+- **Language:** Java
+- **IDE:** Eclipse IDE
+- **Version Control:** Git & GitHub
+
+---
+*Happy Coding! ☕*
