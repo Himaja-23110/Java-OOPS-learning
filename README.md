@@ -1,63 +1,33 @@
-# Java OOPs Learning 🚀
+Java OOP Concepts
 
-This repository contains my Java Object-Oriented Programming (OOP) learning journey, with concepts practiced step by step.
+A collection of simple Java programs that demonstrate the core Object-Oriented Programming (OOP) concepts. Each concept is kept in its own package so it is easy to find and practice.
 
-## 📚 Topics Covered
+Concepts Covered
+Package	Concept
+ClassObject	Classes and objects
+constructors	Constructors and their types
+Encapsulation	Data hiding using private variables, getters and setters
+Inheritance	Reusing code with the extends keyword
+Methodoverloading	Compile-time polymorphism (same method name, different parameters)
+Methodoverridding	Runtime polymorphism (child class redefines a parent method)
+Superkeyword	Using super to access parent class members and constructors
+Abstract	Abstract classes and abstract methods
+Project Structure
+JavaOOPs/
+└── src/
+    ├── Abstract/
+    ├── ClassObject/
+    ├── constructors/
+    ├── Encapsulation/
+    ├── Inheritance/
+    ├── Methodoverridding/
+    ├── Methodoverloading/
+    └── Superkeyword/
+    Requirements
+Java JDK 8 or above
+Eclipse IDE (or any Java IDE)
+Author
 
-### Day 1 – Classes & Objects
+Himaja Pogiri B.Tech CSE, Narsimha Reddy Engineering College (NRCM), Hyderabad
 
-* What is a Class?
-* What is an Object?
-* Class vs Object
-* Instance Variables / Fields
-* Instance Methods
-* Creating objects using `new`
-* Accessing fields and methods using object references
-* Multiple objects from the same class
-* Basic real-world examples:
-
-  * Student
-  * Employee
-  * Bank Account
-
-### Day 2 – Constructors
-
-* What is a Constructor?
-* Constructor rules
-* No-Argument Constructor
-* Parameterized Constructor
-* Default Constructor
-* Constructor Overloading
-* `this` keyword
-* Copy Constructor
-* Initializing object data using constructors
-* Practiced constructors using a `Student` class
-
-## 📂 Project Structure
-
-```text
-Java-OOPS-learning
-└── src
-    ├── ClassObjects
-    │   ├── Student.java
-    │   ├── Employee.java
-    │   └── BankAccount.java
-    │
-    └── Constructors
-        └── Student.java
-```
-
-## 🎯 Goal
-
-To build a strong understanding of Java OOP concepts before moving on to DSA and advanced Java.
-
-## 🛠️ Technologies
-
-* Java
-* JDK 17
-* Eclipse IDE
-
-## 📈 Progress
-
-* [x] Day 1 – Classes & Objects
-* [x] Day 2 – Constructors
+Learning Java Full Stack Development.
