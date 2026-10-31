@@ -1,39 +1,76 @@
 # Java OOPs Learning 🚀
 
-A hands-on repository containing my Java Object-Oriented Programming (OOP) practice programs, built while strengthening Core Java fundamentals for software engineering roles.
+A hands-on journey to mastering **Object-Oriented Programming (OOP) in Java** through practical examples and coding exercises.
 
-## 📂 Topics Covered
+## 🎯 About This Repository
 
-Here are the concepts and implementations included in this repository:
+This repository contains my Java OOPs practice programs. I am strengthening my Core Java fundamentals by learning concepts and implementing them through hands-on coding.
 
-1. **Class and Object** (`ClassObject`)
-   - Basics of creating classes and objects
-   - Instance variables and methods execution
+## 📚 Topics Completed
 
-2. **Constructors** (`Constructors`)
-   - Default and parameterized constructors
-   - Object initialization and the `this` keyword
+### 1. Classes and Objects
+- Understanding classes and objects
+- Creating objects and accessing members
+- Instance variables and methods
 
-3. **Encapsulation** (`Encapsulation`)
-   - Data hiding using `private` access modifiers
-   - Getters and setters implementation
+### 2. Constructors
+- No-argument constructors
+- Parameterized constructors
+- The `this` keyword
 
-4. **Inheritance** (`Inheritance`)
-   - Code reusability and parent-child class relationships (`extends`)
+### 3. Access Modifiers
+- `public`
+- `private`
+- `protected`
+- Default access
 
-5. **Polymorphism & Methods**
-   - **Method Overloading** (`Methodoverloading`) - Compile-time polymorphism
-   - **Method Overriding** (`Methodoveradding`) - Run-time polymorphism
+### 4. Encapsulation
+- Data hiding using private variables
+- Getters and setters
+- Controlled access to class data
 
-6. **Keywords & Abstraction**
-   - **Super Keyword** (`Superkeyword`) - Using `super` to access parent class members
-   - **Abstraction** (`Abstract`) - Abstract classes and methods implementation
+### 5. Inheritance
+- Single inheritance
+- Multilevel inheritance
+- Hierarchical inheritance
+- `extends` keyword
+- `super` keyword
 
-## 🛠️ Tech Stack
+### 6. Method Overloading
+- Compile-time polymorphism
+- Different method parameters
 
+### 7. Method Overriding
+- Runtime polymorphism
+- `@Override` annotation
+
+### 8. Polymorphism
+- Compile-time polymorphism
+- Runtime polymorphism
+
+### 9. Abstraction
+- Abstract classes
+- Abstract methods
+
+### 10. Interfaces
+- Interface declaration
+- Implementing interfaces
+- Multiple interface implementation
+
+
+
+## 🛠️ Technologies Used
 - **Language:** Java
-- **IDE:** Eclipse IDE
-- **Version Control:** Git & GitHub
+- **JDK:** Java 17
+- **IDE:** Eclipse / Spring Tool Suite
+- **Version Control:** Git and GitHub
+
+
+
+## 🎯 Goal
+
+To build strong Core Java and OOP fundamentals and become job-ready for entry-level software engineering roles.
 
 ---
-*Happy Coding! ☕*
+
+**Learning Java one concept at a time!** ☕
